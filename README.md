@@ -25,8 +25,8 @@ The primary goal of this notebook is to prepare raw data for analysis by perform
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/saikumarponnapati/task1.git
+   cd task1
 2. Install required libraries:
     ```bash
     pip install pandas jupyter
