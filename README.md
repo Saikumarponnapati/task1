@@ -27,12 +27,13 @@ The primary goal of this notebook is to prepare raw data for analysis by perform
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
-2.Install required libraries:
-  ```bash
-   pip install pandas jupyter
-3.Launch the Jupyter Notebook:
-   ```bash
-   jupyter notebook Task1.ipynb
+2. Install required libraries:
+    ```bash
+    pip install pandas jupyter
+    
+3. Launch the Jupyter Notebook:
+     ```bash
+    jupyter notebook Task1.ipynb
 
 ## ✅ Key Functions Used
 
