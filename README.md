@@ -28,11 +28,14 @@ The primary goal of this notebook is to prepare raw data for analysis by perform
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 2.Install required libraries:
-pip install pandas jupyter
+  ```bash
+   pip install pandas jupyter
 3.Launch the Jupyter Notebook:
-jupyter notebook Task1.ipynb
+   ```bash
+   jupyter notebook Task1.ipynb
 
-✅ Key Functions Used
+## ✅ Key Functions Used
+
 df.isnull(), df.fillna()
 
 df.drop_duplicates()
@@ -45,10 +48,12 @@ df.columns.str.strip().str.lower().str.replace(' ', '_')
 
 df.astype(), pd.to_numeric()
 
-📌 Notes
+## 📌 Notes
+
 Be sure to inspect your dataset before and after cleaning to validate changes.
 
 Use .info() and .describe() to get a better overview of your data.
 
-📃 License
+## 📃 License
+
 This project is open source and available under the MIT License.
